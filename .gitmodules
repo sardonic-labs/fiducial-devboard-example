@@ -1,0 +1,3 @@
+[submodule "fiducial"]
+	path = fiducial
+	url = https://github.com/sardonic-labs/fiducial.git
